@@ -14,6 +14,9 @@ pip install -r requirements.txt
 </code>
 
 If pulling repo in dev mode, run the following to avoid commiting large output cells:
-`git config --global filter.nbstripout.clean 'nbstripout'`
+<code>
+pip install pre-commit
+pre-commit install
+</code>
 
 

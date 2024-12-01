@@ -10,3 +10,4 @@ ipykernel
 
 # for commiting ipynb files during dev
 nbstripout 
+pre-commit

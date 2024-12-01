@@ -1,0 +1,12 @@
+torch-geometric
+networkx
+scikit-learn
+torch
+pandas
+matplotlib
+seaborn
+pytorch-lightning
+ipykernel
+
+# for commiting ipynb files during dev
+nbstripout 

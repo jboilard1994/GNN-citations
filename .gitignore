@@ -1,5 +1,5 @@
 # data folders
-extracted_files/*
+data/*
 *.tgz
 
 # Byte-compiled / optimized / DLL files
